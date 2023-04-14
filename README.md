@@ -12,6 +12,15 @@
 - JavaScript
 - ES6
 
+## To run this project directory, you can run:
+1.  npm start:
+Runs the app in the development mode.
+2. Open http://localhost:3000 to view it in the browser.
+
+## Initiate React application
+- npx create-react-app <app-name>
+- npx create-react-app basic-react
+
 ## Resources
 - Official [React website](https://react.dev/learn)
 - [Facebook React repo](https://github.com/facebook/react) Github
